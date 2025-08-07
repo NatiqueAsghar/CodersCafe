@@ -14,7 +14,8 @@
 
 ---
 
-🚀 Live Demo: [https://coders-cafe-view.vercel.app/]
+## 🚀 Live Dem[Click here to view Coders Cafe](https://coders-cafe-view.vercel.app/)
+
 ## 📸 Preview<img width="1916" height="868" alt="Screenshot 2025-08-07 203443" src="https://github.com/user-attachments/assets/2f09e3eb-60c4-44cd-982a-885e7fa15588" />
 
 
